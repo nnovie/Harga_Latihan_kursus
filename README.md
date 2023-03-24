@@ -1,7 +1,5 @@
 # Harga_Latihan_kursus
 
-# Harga_Kursus_Batam_Coding_Academy
-
 <!DOCTYPE html>
 <html>
 <head>
